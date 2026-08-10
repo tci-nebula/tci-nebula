@@ -19,6 +19,14 @@ are honest about their trade-offs, and do one job properly.
 | **[streakboard](https://github.com/tci-nebula/streakboard)** | Local-first habit tracker with streaks and a contribution-style heatmap. React 19 + Vite. Data stays in your browser via IndexedDB — no backend, no accounts, exportable as JSON. |
 | **[ratewatch](https://github.com/tci-nebula/ratewatch)** | CLI that tracks foreign-exchange rates and alerts when they cross a threshold. Public ECB data via Frankfurter — no keys, no accounts. |
 
+### Not public
+
+**priorart** — A prior-art gap scoring engine for patent work. BigQuery assembles a coarse
+candidate pool from embeddings and citations; the engine then has Claude make the
+claim-limitation-level gap distinction that abstract similarity can't resolve. Matter-agnostic
+by design — the rubric changes per patent, the engine doesn't. Ships as a CLI plus an MCP
+server. Private repo, but happy to talk about it.
+
 ### A bit more
 
 - 🇯🇵 Based in Japan — I also run an import/export ecommerce business here
