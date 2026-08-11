@@ -1,6 +1,6 @@
 ## Hi, I'm Nick 👋
 
-Developer based in Japan. I build small, focused web tools — mostly TypeScript on
+Founder based in Japan. I build small, focused web tools — mostly TypeScript on
 Cloudflare Workers, with D1 and KV for state. I like things that stay cheap to run,
 are honest about their trade-offs, and do one job properly.
 
