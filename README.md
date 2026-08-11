@@ -15,6 +15,7 @@ are honest about their trade-offs, and do one job properly.
 
 | Project | What it is |
 | --- | --- |
+| **[mermaid-mcp](https://github.com/tci-nebula/mermaid-mcp)** | MCP server that gives LLMs real diagram output: Mermaid syntax in, PNG/SVG/PDF out, or editable draw.io files for flowcharts. Born from patent work — PDF for Japanese filings, draw.io for US attorneys. On [npm](https://www.npmjs.com/package/mermaid-render-mcp), Docker Hub, and the official MCP registry. |
 | **[pulsecheck](https://github.com/tci-nebula/pulsecheck)** | Uptime monitor that runs entirely in one Cloudflare Worker. Cron probes → D1 time-series → JSON API and status page. Rolling 24h/7d uptime is aggregated in SQL, so request cost doesn't grow with history. |
 | **[streakboard](https://github.com/tci-nebula/streakboard)** | Local-first habit tracker with streaks and a contribution-style heatmap. React 19 + Vite. Data stays in your browser via IndexedDB — no backend, no accounts, exportable as JSON. |
 | **[ratewatch](https://github.com/tci-nebula/ratewatch)** | CLI that tracks foreign-exchange rates and alerts when they cross a threshold. Public ECB data via Frankfurter — no keys, no accounts. |
