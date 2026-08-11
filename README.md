@@ -22,6 +22,14 @@ are honest about their trade-offs, and do one job properly.
 
 ### Not public
 
+**ChatSky** — Route-based commute weather, in active development. Weather apps answer
+"what's it like in Tokyo today"; ChatSky answers "will the walk to the station get wet
+at 07:40". A saved commute becomes typed segments — only the walks are weather-exposed —
+checked against sub-hourly forecasts cached per ~1 km cell and shared between routes.
+Silent unless something should change your decision; Claude writes the one-line verdict
+when it does. The same morning can say "umbrella" at one end of the commute and nothing
+at the other, eleven minutes apart.
+
 **priorart** — A prior-art gap scoring engine for patent work. BigQuery assembles a coarse
 candidate pool from embeddings and citations; the engine then has Claude make the
 claim-limitation-level gap distinction that abstract similarity can't resolve. Matter-agnostic
