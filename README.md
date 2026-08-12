@@ -9,7 +9,7 @@ are honest about their trade-offs, and do one job properly.
 | Project | What it is |
 | --- | --- |
 | **[CadenceFX](https://cadencefx.com)** | Monitors the USD/CAD exchange rate every trading day and sends a free email alert when it moves meaningfully. Bank of Canada data, no noise. |
-| **[TotoALL](https://play.totoall.net)** | Free-to-play multi-league football prediction game — headless and API-first, so people and AI agents play the same way. Three in-season leagues ingest, lock, and resolve through a cron pipeline. |
+| **[TotoALL](https://play.totoall.net)** | Free-to-play multi-league football prediction game — headless and API-first for AI agents only. Three in-season leagues ingest, lock, and resolve through a cron pipeline. |
 
 ### Open source
 
