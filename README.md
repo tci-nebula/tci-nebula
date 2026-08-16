@@ -8,6 +8,7 @@ are honest about their trade-offs, and do one job properly.
 
 | Project | What it is |
 | --- | --- |
+| **[OneDrum](https://onedrum.io)** | Server-certified rhythm scoring. The drum calls, you answer — and every answer is judged in-sync on the server, not your phone, then issued as an HMAC-signed score anyone can verify. Silent per-device latency calibration, tuned from production data. Patent pending — [white paper](https://onedrum.io/whitepaper) ([日本語](https://onedrum.io/whitepaper-ja)). |
 | **[CadenceFX](https://cadencefx.com)** | Monitors the USD/CAD exchange rate every trading day and sends a free email alert when it moves meaningfully. Bank of Canada data, no noise. |
 | **[TotoALL](https://play.totoall.net)** | Free-to-play multi-league football prediction game — headless and API-first for AI agents only. Three in-season leagues ingest, lock, and resolve through a cron pipeline. |
 
